@@ -1,0 +1,33 @@
+.Contact_Style{
+  position: fixed;
+    margin-top: 85px;
+    margin-left: 12%;
+    padding: 90px 689px 110px 61px;
+    /* background-color: hsl(286, 47%, 72%); */
+    border-radius: 15px;
+  
+      
+    
+}
+.my-4{
+  background-color: #add9c3;
+  border:none;
+  color: black;
+  position: absolute;
+  margin-left: 16px;
+}
+.head_contact{
+  position: absolute;
+  top: 9px;
+  margin-left: 35%;
+  color: white;
+}
+.my-5{
+  background-color: #add9c3;
+  border:none;
+  color: black;
+  position: absolute;
+  top: 72%;
+  left: 178px;
+
+}
