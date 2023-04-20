@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect, props } from "react";
 import { Link, Outlet, useNavigate, useParams } from "react-router-dom";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
