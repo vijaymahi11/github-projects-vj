@@ -1,0 +1,53 @@
+.navbar {
+  overflow: hidden;
+  background-color: #32314f;
+  top: 0px;
+  padding: 0px;
+}
+.topnav a {
+  text-decoration: none;
+  color: white;
+}
+.justnnow{
+  display:flex;
+  position: absolute;
+  justify-content: right;
+  color: #f2f2f2;
+  /* background-color: #32314f; */
+  text-align: center;
+  font-size: 25px;
+  margin-top: -25px;
+  margin-left: 56%;
+  
+}
+.topnav li {
+  display: flex;
+  float: left;
+  color: #f2f2f2;
+  background-color: #32314f;
+  text-align: center;
+  padding: 14px 9px;
+  list-style: none;
+  font-size: 20px;
+  border-radius: 10px;
+}
+.topnav a:hover {
+  color: white;
+}
+.justnnow:hover {
+  color: white;
+
+
+}
+.topnav li.active {
+  background-color: #04AA6D;
+  color: black;
+}
+.Tigma-logo{
+  position: relative;
+  top: 10px;
+  left: -10px;
+  width: 150px;
+  height: 30px;
+
+}
