@@ -1,0 +1,223 @@
+.Attend{
+    position: fixed;
+    margin-top: 4%;
+}
+.dropdown{
+  width: 18%;
+  position: relative;
+  display: inline-block;
+  top:-560px;
+  left: 96%;
+}
+.Overall-dropdown{
+  position: absolute;
+  margin-top: 2%;
+}
+.heading_chart{
+  font-size: 31px;
+  
+}
+.dropdown-year{
+    
+    width: 18%;
+    position: relative;
+    display: inline-block;
+    top:-560px;
+    left: 105%;
+}
+.dropbtn {
+    background-color: #4a88ed;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    width: 170px;
+   
+    border-radius: 30px;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 170px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #63bf74}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+  }
+  .drop_Chart{
+    width: 100px;
+    position: relative;
+    display: inline-block;
+    top:-560px;
+    left:91%;
+    
+    
+  }
+  .yearlywise_yearchart{
+    width: 100px;
+    position: relative;
+    display: inline-block;
+    top:-560px;
+    left:67%;
+
+  }
+  .yearlywise_selectchart{
+    width: 100px;
+    position: relative;
+    display: inline-block;
+    top:-560px;
+    left: 20%;
+  }
+  .Typesof_yearfilter{
+    width: 100px;
+    position: relative;
+    display: inline-block;
+    top: -560px;
+    left: 28%;
+    height: 14px;
+
+  }
+  .Last_filter{
+    width: 100px;
+    position: relative;
+    display: inline-block;
+    top:-560px;
+    left: 2%;
+
+  }
+  .onchange_typesfilter{
+    width: 110px;
+    position: relative;
+    display: inline-block;
+    top: -560px;
+    left: 28%;
+    height: 14px;
+    
+  }
+  .date_picker{
+    width: 180px;
+    position: relative;
+    display: inline-block;
+    top: -562px;
+    left: 20%;
+    height: 14px;
+    
+    
+
+  }
+  .datepic_style{
+    background-color: white !important;
+  }
+  .date_style{
+    border: 1px solid black;
+
+  }
+  .year_dropdown{
+    width: 100px;
+    position: relative;
+    display: inline-block;
+    top:-560px;
+    left: 65%;
+
+  }
+  .change_yeardrop{
+    width: 107px;
+    position: relative;
+    display: inline-block;
+    top:-560px;
+    left: 80%;
+
+  }
+  .user_filter{
+    width: 100px;
+    position: relative;
+    display: inline-block;
+    top:-560px;
+    left:82%;
+
+  }
+  .onchange_user{
+    width: 107px;
+    position: relative;
+    display: inline-block;
+    top: -560px;
+    left: 68%;
+  }
+  .Submit_Data{
+    
+    width: 207%;
+    height: 100%;
+    position: relative;
+    display: inline-block;
+    top:-600px;
+    left:120%;
+   
+
+  }
+  .Reset_Data{
+    width: 207%;
+    height: 100%;
+    position: relative;
+    display: inline-block;
+    top: -635px;
+    left: 131%;
+  }
+  .button_submit{
+    height: 35px;
+    width: 95px;
+    background-color: #87eda6;
+    color: white;
+    font-size: 14px;
+  }
+  .reset_submit{
+    height: 35px;
+    width: 95px;
+    background-color: #e37197;
+    color: white;
+    font-size: 14px;
+
+  }
+  .topnav li{
+    background-color: #c4f2f5;
+
+  }
+  .Pro_style{
+    background-color: #2e75b5;
+    color: white;
+  }
+  .absent_stl{
+    background-color: #ff999a !important;
+    color: white !important;
+}
+.off_stl{
+  background-color: #b975fe !important;
+  color: white !important;
+
+}
+.new_poppre{
+  background-color: #2e75b5 !important;
+  color: white !important;
+}
